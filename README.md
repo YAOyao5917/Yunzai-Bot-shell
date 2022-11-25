@@ -1,5 +1,5 @@
 # Yunzai-Bot-shell
-Yunzai-Bot Ubuntu CentOS
+Yunzai-Bot Ubuntu CentOS<br>
 一键安装脚本
 
 ## 推荐Ubuntu！更兼容
