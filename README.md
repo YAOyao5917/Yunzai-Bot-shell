@@ -1,13 +1,2 @@
-# Yunzai-Bot-shell
-Yunzai-Bot Ubuntu CentOS<br>
-一键安装脚本
-
-## 推荐Ubuntu！更兼容
-国内节点脚本
-```
-curl -o ybot.sh 02vps.cn/ybot.sh && chmod 777 ybot.sh && ./ybot.sh
-```
-海外节点脚本
-```
-curl -o ybot.sh 10vps.top/ybot.sh && chmod 777 ybot.sh && ./ybot.sh
-```
+由于不可抗力，本脚本已停止维护，建议移步至白狐脚本安装。
+另:妖云网络IDC提供免安装挂机宝，24小时不间断挂机，欢迎查看。【【原神Bot】最简单开箱即用的Yunzai-Bot云崽Bot登录使用教程 一键操作，解放双手-哔哩哔哩】 https://b23.tv/ercFzt
